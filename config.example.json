@@ -1,0 +1,7 @@
+{
+  "listen": "0.0.0.0:3210",
+  "access_password": "replace with your own password",
+  "session_hours": 720,
+  "passkey_rp_id": "localhost",
+  "passkey_origins": ["http://localhost:3210"]
+}
